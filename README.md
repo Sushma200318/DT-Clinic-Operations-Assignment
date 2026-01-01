@@ -1,6 +1,5 @@
 # DT-Clinic-Operations-Assignment
 Clinic inventory audit &amp; patient communication system
-# DT Clinic Operations Assignment
 
 ## Overview
 This repository contains my solution to the DT Business Analyst Assignment.
